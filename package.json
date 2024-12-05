@@ -29,7 +29,7 @@
     "jsonwebtoken": "^9.0.2",
     "lodash": "^4.17.21",
     "mapbox-gl": "^2.11.1",
-    "next": "^14.2.5",
+    "next": "^14.2.10",
     "point-in-polygon": "^1.1.0",
     "polylabel": "^2.0.1",
     "prettier": "3.3.3",
